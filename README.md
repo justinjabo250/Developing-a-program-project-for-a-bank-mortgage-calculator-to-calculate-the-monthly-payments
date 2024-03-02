@@ -1,0 +1,2 @@
+# Developing-a-program-project-for-a-bank-mortgage-calculator-to-calculate-the-monthly-payments
+In this project, I will be developing a bank mortgage calculator program that will calculate the monthly payments that the client must make in order to pay off the loan. In addition, I will be working on behalf of Kelly, who is both a bank client &amp; an aspiring businesswoman who plans to open 3 factories in the upcoming month. Kelly calls her banker
