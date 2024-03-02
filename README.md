@@ -8,6 +8,8 @@
 ### Kelly calls her banker as a result, and they decide to give her a loan so she can move forward with her project. Kelly also asks her lender how much she needs to pay each month to pay off the debt. I will therefore create a software application for this purpose, in order to assist Kelly and the banker in performing accurate computations and calculations.
 
 
+----------------------------------------
+
 
 **I've included all of the business requirements here so that we can create software that will meet the intended business needs and be viewed favorably by managers and stakeholders who will be using the data to extract insightful information and patterns from it.**
 
